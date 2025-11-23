@@ -1,0 +1,4 @@
+baseURL = "https://emb.z-athena.org/"
+languageCode = "zh.cn"
+title = "My Hugo Site"
+theme = "ananke"
